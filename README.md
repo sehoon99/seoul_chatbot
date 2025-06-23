@@ -16,5 +16,6 @@ It leverages **LangChain**, **FAISS**, and **OpenAI Embeddings** to retrieve and
 
 If you make your own chatbot with OpenAI
 Add .env file and write "OPENAI_API_KEY=sk-<your-openai-key>"
+
 ---
 
